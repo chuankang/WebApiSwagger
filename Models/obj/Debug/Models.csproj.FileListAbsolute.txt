@@ -1,0 +1,11 @@
+d:\users\zdyu\documents\visual studio 2015\Projects\WebAPITestSwagger\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+d:\users\zdyu\documents\visual studio 2015\Projects\WebAPITestSwagger\Models\bin\Debug\Models.dll
+d:\users\zdyu\documents\visual studio 2015\Projects\WebAPITestSwagger\Models\bin\Debug\Models.pdb
+d:\users\zdyu\documents\visual studio 2015\Projects\WebAPITestSwagger\Models\obj\Debug\Models.dll
+d:\users\zdyu\documents\visual studio 2015\Projects\WebAPITestSwagger\Models\obj\Debug\Models.pdb
+C:\Users\chuankangsun\Downloads\WebAPITestSwagger\Models\bin\Debug\Models.dll
+C:\Users\chuankangsun\Downloads\WebAPITestSwagger\Models\bin\Debug\Models.pdb
+C:\Users\chuankangsun\Downloads\WebAPITestSwagger\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\chuankangsun\Downloads\WebAPITestSwagger\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\chuankangsun\Downloads\WebAPITestSwagger\Models\obj\Debug\Models.dll
+C:\Users\chuankangsun\Downloads\WebAPITestSwagger\Models\obj\Debug\Models.pdb

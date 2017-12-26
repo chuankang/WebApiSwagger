@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPITestSwagger</name>
+    </assembly>
+    <members>
+        <member name="T:WebAPITestSwagger.SwaggerConfig">
+            <summary>
+            swagger配置
+            </summary>
+        </member>
+        <member name="T:WebAPITestSwagger.Controllers.TestController">
+            <summary>
+            测试接口
+            </summary>
+        </member>
+        <member name="M:WebAPITestSwagger.Controllers.TestController.UploadResource">
+            <summary>
+            [upload] 上传资源
+            </summary>
+            <author>联调中</author>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPITestSwagger.Controllers.TestController.GetPersonList">
+            <summary>
+            获取person列表
+            </summary>
+            <author>联调中</author>
+            <returns></returns>
+        </member>
+        <member name="T:WebAPITestSwagger.Filter.AuthorizeFilterAttribute">
+            <summary>
+            权限拦截
+            </summary>
+        </member>
+        <member name="P:WebAPITestSwagger.Filter.AuthorizeFilterAttribute.AllowAll">
+            <summary>
+            是否允许所有人查看
+            </summary>
+        </member>
+        <member name="M:WebAPITestSwagger.Filter.AuthorizeFilterAttribute.OnActionExecuting(System.Web.Http.Controllers.HttpActionContext)">
+            <summary>
+            Token认证 
+            </summary>
+            <param name="filterContext"></param>
+        </member>
+        <member name="P:WebAPITestSwagger.Filter.filterContextInfo.controllerName">
+            <summary>
+            获取 controllerName 名称
+            </summary>
+        </member>
+        <member name="P:WebAPITestSwagger.Filter.filterContextInfo.actionName">
+            <summary>
+            获取ACTION 名称
+            </summary>
+        </member>
+        <member name="M:WebAPITestSwagger.Filter.SwaggerUploadFilter.Apply(Swashbuckle.Swagger.Operation,Swashbuckle.Swagger.SchemaRegistry,System.Web.Http.Description.ApiDescription)">
+            <summary>
+                文件上传
+            </summary>
+            <param name="operation"></param>
+            <param name="schemaRegistry"></param>
+            <param name="apiDescription"></param>
+        </member>
+    </members>
+</doc>
